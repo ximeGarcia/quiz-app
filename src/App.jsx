@@ -1,10 +1,11 @@
 import React from "react";
 import Quiz from './Components/Quiz/Quiz.jsx';
+import './App.css';
 
 const App = () => {
   return(
     <>
-    <h1>hhh</h1>
+      <h1 className="encabezado">mensaje</h1>
       <Quiz/>
     </>
   )

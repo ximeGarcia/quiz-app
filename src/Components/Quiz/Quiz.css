@@ -9,6 +9,7 @@
     gap: 20px;
     border-radius: 10px;
     padding: 40px 50px;
+    z-index: -2;
 }
 .container hr{
     height: 2px;
